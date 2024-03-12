@@ -1,0 +1,13 @@
+name = "Sword Blocking Mechanics"
+filename = "SwordBlockingMechanics-v8.0.1-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4v5Na7b9/versions/TmYa7rep/SwordBlockingMechanics-v8.0.1-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "0760230ebafc04499ca992f35918959924de7863"
+
+[update]
+[update.modrinth]
+mod-id = "4v5Na7b9"
+version = "TmYa7rep"

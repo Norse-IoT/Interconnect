@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/better-mods-button.pw.toml"
+hash = "5f58c33c989fcd74930522db023d903afe33505d08df754cb5a6e063b713a9c6"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "feb55bf6d856555a845465691394e598d0977a175c539a659049963bba5e9131"
+metafile = true
+
+[[files]]
+file = "mods/combat-nouveau.pw.toml"
+hash = "98681d53edf666a50c48994ae14b896e241105fc76685a65f88e1900aed5107e"
+metafile = true
+
+[[files]]
+file = "mods/held-item-tooltips.pw.toml"
+hash = "a9d5cb62ed450a6934f1aa05cc459682fd6117a18de9b589aca356d2bdddfe80"
+metafile = true
+
+[[files]]
+file = "mods/mcreator-link.pw.toml"
+hash = "ed8d228d80cc2e02d005636896c1a8f32828e40ffe490c6a23958385a9b88fe5"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "af94e8930aa37a5be7510b721d3cde32e40ef60964cd10bf701491a43ba4744a"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "2ade5de0316cdd378dd3543244d19bee9c84976863e8819f2920f3116843b31d"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "8a7480b6010c9087a18cf73f92cd168ab0c95a9dbd288d5f95f046ad0622bc68"
+metafile = true
+
+[[files]]
+file = "mods/sword-blocking-mechanics.pw.toml"
+hash = "d27ca035d0f5c56e2d08ac26e85b2b519ac508d02511c0a04df68b959aab985a"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "0d33b2f5dd7ea035ea85d384eea91459c4d6266d1848082e85cc23dc09424b02"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Interconnect"
+author = "Norse IoT Club"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f402cc543d0bfadeab2c3513456be1c803287ff6599ac723426304d68d41a6e7"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"
