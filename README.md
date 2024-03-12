@@ -2,7 +2,7 @@
 Interconnect is a Minecraft modpack focused on exploring the possibilities of Arduino/Raspberry Pi devices. Interconnect is the official modpack of the Norse IoT Club at NKU.
 
 # Development
-Norse IoT provides an automatically updating Prism Launcher instance, as well as a distribution on Modrinth.
+Norse IoT provides an automatically updating [Prism Launcher instance](https://prismlauncher.org), as well as a distribution on [Modrinth](https://modrinth.com/organization/norse-iot).
 
 Before working on the pack, you should already have the [packwiz tool](https://packwiz.infra.link/installation/) installed.
 ```
